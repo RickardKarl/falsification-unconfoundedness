@@ -1,0 +1,22 @@
+{
+    "dgp": "NonLinear",
+    "degree": 1,
+    "n_samples": 25,
+    "n_envs": 50,
+    "n_observed_confounders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "conf_strength": [
+        0.0,
+        1.0
+    ]
+}

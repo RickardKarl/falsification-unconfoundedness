@@ -1,0 +1,9 @@
+iterations,experiment,method,detection,bias,pval,execution_time,degree,n_envs,n_observed_confounders,conf_strength,transportability_violation,n_samples
+0,experiment_B1,FalsificationAlgorithm_linear_bs,False,0.08028259184398027,0.237,13.383148,1,100,1,0.0,0.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,False,0.07537655725748096,0.83,6.993355,1,100,1,0.0,1.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,True,0.8767016075976432,0.0,7.881105,1,100,1,1.0,0.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,True,0.866498101001515,0.0,6.82571,1,100,1,1.0,1.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,True,0.8450725512563427,0.0,6.156584,3,100,1,0.0,0.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,False,0.9953504232603038,0.141,6.512335,3,100,1,0.0,1.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,True,0.8685060290265968,0.0,7.117029,3,100,1,1.0,0.0,100
+0,experiment_B1,FalsificationAlgorithm_linear_bs,False,0.9315393541903136,0.777,6.958559,3,100,1,1.0,1.0,100

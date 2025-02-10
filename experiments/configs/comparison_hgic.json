@@ -1,0 +1,16 @@
+{
+    "dgp": "NonLinear",
+    "degree": [
+        2
+    ],
+    "n_samples": 50,
+    "n_envs": 100,
+    "n_observed_confounders": 1,
+    "conf_strength": [
+        0.0,
+        1.0
+    ],
+    "transportability_violation": [
+        0.0
+    ]
+}
