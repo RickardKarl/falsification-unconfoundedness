@@ -2,9 +2,9 @@
 
 [Paper link](https://arxiv.org/abs/2502.06231)
 
-### There is now a Python package also
+### Python package
 
-I have also turned this package into an easy-to-use Python package: **[causal-falsify](https://github.com/RickardKarl/causal-falsify)**, please check it out.
+I have also included the method from this paper into an easy-to-use Python package: **[causal-falsify](https://github.com/RickardKarl/causal-falsify)**, please check it out.
 
 ## Abstract 
 
